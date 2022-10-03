@@ -53,11 +53,11 @@ Foreach($dc in $DClist){
 
 $sendMailParams = @{
     From = 'IT-Admins@test.com' 
-    To = 'murugan.natarajan@outlook.com','ADtechies389@gmail.com'
+    To = 'murugan.natarajan@outlook.com','ADtechies389@test.com'
     Subject = 'User Accounts Disabled Notification'
     Body = 'Please find attached the list of accounts disabled in last 24 hours'
     SMTPServer = 'smtp.test.com'
     Attachment = "$log"
 }
 
-Send-MailMessage @sendMailParams 
+Send-MailMessage @sendMailParams
