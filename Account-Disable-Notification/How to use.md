@@ -10,3 +10,10 @@ Here, the output is provided in CSV format. If there are no accounts disabled in
 ![image](https://user-images.githubusercontent.com/110298884/193493443-02dbcf02-ecd3-4af9-8679-876afeae765d.png)
 
 
+CSV file is generated in the Local Directory, we keep this files since it's very less size. 
+There are scenarios where we asked for older data, so we can use the powershell to query for specific user and identity when
+it was disabled. 
+
+![image](https://user-images.githubusercontent.com/110298884/193495598-2b61d6a4-fc69-4252-b943-82083cde1787.png)
+
+
