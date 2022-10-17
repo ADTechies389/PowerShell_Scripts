@@ -1,5 +1,6 @@
 <# 
-
+ Courtesy to Hey Scripting Guy blog : https://devblogs.microsoft.com/scripting/use-powershell-to-quickly-find-installed-software/
+ 
 Requirement: 
 
 This script helps to retrieve the softwares installed on remote computer. 
