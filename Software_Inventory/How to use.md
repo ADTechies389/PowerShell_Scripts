@@ -1,4 +1,6 @@
-# 
+<# 
+
+Requirement: 
 
 This script helps to retrieve the softwares installed on remote computer. 
 In our case, where there is tool named Rapid7 which need to be installed on All the domain Controllers. 
@@ -6,6 +8,8 @@ In our case, where there is tool named Rapid7 which need to be installed on All 
 So, we were asked to check and confirm which DCs have the tool installed. 
 
 Lets play with Powershell :) 
+
+#>
 
 1) Prepare the Server list input file
 
