@@ -11,7 +11,7 @@ Lets play with Powershell :)
 
 #>
 
-1) Prepare the Server list input file
+1) Prepare the Server list input file ( Note: Input file does not have header ) 
 
 ![image](https://user-images.githubusercontent.com/110298884/196244247-75f4b73a-f3ff-4344-a4fa-33b96ab09983.png)
 
